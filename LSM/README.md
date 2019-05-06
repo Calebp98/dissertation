@@ -1,4 +1,5 @@
-# Code used to produce results for my dissertation titled Biologically Inspired Spiking Neural Networks for Signal Processing and Classification
+# Dissertation (Theoretical Neuroscience)
+Code used to produce results for my dissertation titled Biologically Inspired Spiking Neural Networks for Signal Processing and Classification
 
 Includes a copy of ...
 ### Liquid State Machine (LSM)
